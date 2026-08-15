@@ -1,6 +1,0 @@
-
-conda create -p network python==3.10 -y
-conda activate "D:\My_ML_Project\Network Security"
-
-
-
