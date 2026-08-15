@@ -1,0 +1,96 @@
+# =========================
+# Python Virtual Environment
+# =========================
+network/
+venvv/
+venv/
+.venv/
+.env/
+
+# =========================
+# Python Cache / Compiled Files
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# =========================
+# Environment Variables / Secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Python Build Files
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Test / Coverage
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# ML / Model Generated Files
+# =========================
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+
+# =========================
+# Large Data / Generated Data
+# =========================
+# Uncomment these if Network_Data contains large datasets
+# Network_Data/
+# data/
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Personal notes
+Necessary Stuffs.txt
+
+
+
+
